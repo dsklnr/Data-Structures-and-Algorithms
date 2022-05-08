@@ -8,4 +8,3 @@ These files are dedicated to me praciticing data structure and algorithm questio
 <h2>Languages Used</h2>
 
 - <b>Java</b> 
-- <b>Python</b>
