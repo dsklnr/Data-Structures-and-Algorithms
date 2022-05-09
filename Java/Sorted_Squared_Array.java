@@ -19,6 +19,8 @@ class Program {
     }
 }
 
+// Time: O(n)
+// Space: O(n)
 class Program2 {
     public int[] sortedSquaredArray(int[] array) {
         int[] sortedArray = new int[array.length];
